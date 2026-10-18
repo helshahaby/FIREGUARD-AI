@@ -3,8 +3,8 @@
 **Wildfire Response Simulation & Multi-Agency Decision Intelligence**\
 **Presenter:** Hossam Elshahaby\
 **Challenge:** Rural Fire Emergency Response --- Protection & Defence\
-**Live prototype:** https://guimaraes-wildfire-watch.lovable.app/\
-**Demo:** https://youtu.be/gVtTwwbDXkg\
+**Live prototype:** https://guimaraes-wildfire-watch.lovable.app/ \
+**Demo:** https://youtu.be/gVtTwwbDXkg
 
 > **Important safety notice:** FIREGUARD AI is a hackathon
 > decision-support prototype. Its results are simulated and are not
